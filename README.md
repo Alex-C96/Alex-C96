@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-C96
-- 👀 I’m interested in Software Engineering and Penetration Testing
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Software Engineering and Computer Graphics Engineering
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : DM me!
 
