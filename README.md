@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex-C96
-- 👀 I’m interested in Software Engineering and Computer Graphics Engineering
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m working as a Software Engineering Analyst for Walmart Global Tech
+- 👀 I’m interested in Software Engineering and Clean Coding Practices
+- 🌱 I’m currently learning React and .NET Core
+- 💞️ I’m working as a Web Developer for NASA
 - 📫 How to reach me : DM me!
 
 <!---
