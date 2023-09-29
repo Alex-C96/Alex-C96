@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex-C96
-- 👀 I’m interested in Software Engineering and Clean Coding Practices
-- 🌱 I’m currently learning React and .NET Core
-- 💞️ I’m working as a Web Developer for NASA
+- 👀 I’m interested in Penetration Testing and Red Teaming
+- 🌱 I’m currently learning Ethical Hacking and Cybersecurity
+- 💞️ I’m an Software Engineer with Walmart
 - 📫 How to reach me : DM me!
 
 <!---
