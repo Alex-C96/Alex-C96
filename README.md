@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Alex-C96
-- 👀 I’m interested in Penetration Testing and Red Teaming
 - 🌱 I’m currently learning Ethical Hacking and Cybersecurity
 - 💞️ I’m a Software Engineer at Walmart
 - 📫 How to reach me : DM me!
