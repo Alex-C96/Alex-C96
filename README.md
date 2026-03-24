@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-C96
-- 🌱 I’m currently learning Ethical Hacking and Cybersecurity
-- 💞️ I’m a Software Engineer at Walmart
+- 🌱 I'm continuing on my Golang and Kubernetes learning journey
+- 💞️ I’m a Software Engineer at Northrop Grumman
 - 📫 How to reach me : DM me!
 
 <!---
